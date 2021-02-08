@@ -1,0 +1,1 @@
+Neste exercício de número 2.1, aprendemos a utilizar o Git, desde o processo de instalação local e remota, configuração do Github, e posteriormente trabalhar com commits e branchs, e por fim, como efetuar as atualizações remotamente através do terminal
